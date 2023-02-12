@@ -7,8 +7,8 @@
 
 
  <div style="display: inline_block"><br>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Portarriaux&show_icons=true&theme=vue-dark"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Portarriaux&layout=compact&langs_count=16&theme=vue-dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Portarriaux&show_icons=true&theme=vue-dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Portarriaux&layout=compact&langs_count=16&theme=vue-dark"/>
  </div>
 
 
