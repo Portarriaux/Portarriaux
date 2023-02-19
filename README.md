@@ -3,7 +3,7 @@
 - 📚 Cursando Análise e Desenvolvimento de Sistemas.
 - 🚀 Aluno da Rocketseat.
 - 👨‍💻 Atualmente estudando HTML/CSS/JAVASCRIPT.
-- 🛠️ Sempre em busca do próximo passo.
+
 
 
  <div style="display: inline_block"><br>
