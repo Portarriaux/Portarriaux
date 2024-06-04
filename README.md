@@ -1,45 +1,58 @@
-## Olá, eu sou o Jhonatan Portarriaux. 👋
+<h2 align="left">About Me</h2>
 
-- 📚 Cursando Análise e Desenvolvimento de Sistemas.
-- 🚀 Aluno da Rocketseat.
-- 👨‍💻 Atualmente estudando HTML/CSS/JAVASCRIPT.
+###
 
+<p align="left">- 👨‍💻 Web developer.<br>- 📚  Análise e Desenvolvimento de Sistemas.<br>- 🚀 Aluno da Rocketseat.</p>
 
+###
 
- <div style="display: inline_block"><br>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Portarriaux&show_icons=true&theme=vue-dark"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Portarriaux&layout=compact&langs_count=16&theme=vue-dark"/>
- </div>
+<h2 align="left">Techs</h2>
 
+###
 
- <div style="display: inline_block"><br>
- 
-  ## Tecnologias que utilizo no meu dia a dia.
- 
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="Center" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
- @styled-icons/simple-icons/Styledcomponents
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=styledcomponents" height="40" alt="styledcomponents logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
 </div>
- 
- 
+
+###
+
+<h2 align="left">Stats</h2>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Portarriaux&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=de&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Portarriaux&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Portarriaux&radius=16&theme=gotham&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-<div> 
+###
 
- ## Contatos
- 
-  <a href="https://www.instagram.com/jhonatan_portarriaux/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:portarriauxjhonatan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<h2 align="left">Social Media</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/jhonatan-portarriaux-286a59288/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/jhonatan_portarriaux/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
 </div>
- 
 
- 
- 
-
-
-
-
-
-
+###
