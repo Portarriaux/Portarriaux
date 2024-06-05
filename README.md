@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 👨‍💻 Web developer.<br>- 📚  Análise e Desenvolvimento de Sistemas.<br>- 🚀 Aluno da Rocketseat.</p>
+<p align="left">- 👨‍💻 Web developer.<br>- 📚  Graduado em Análise e Desenvolvimento de Sistemas.<br>- 🚀 Aluno da Rocketseat, focado em tecnologias modernas e desenvolvimento full-stack.</p>
 
 ###
 
