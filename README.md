@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 👨‍💻 Web developer.<br>- 📚  Graduado em Análise e Desenvolvimento de Sistemas.<br>- 🚀 Aluno da Rocketseat, focado em tecnologias modernas e desenvolvimento full-stack.</p>
+<p align="left">-  🎯 Meu foco atual está nos estudos de HTML, CSS, JavaScript, React, Node.js, SQLite e Git, enquanto busco minha primeira oportunidade profissional na área.<br>- 📚  Graduado em Análise e Desenvolvimento de Sistemas.<br>- 🚀 Aluno da Rocketseat, focado em tecnologias modernas e desenvolvimento full-stack.</p>
 
 ###
 
@@ -49,9 +49,6 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/jhonatan-portarriaux-286a59288/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/jhonatan_portarriaux/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
 
