@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 🎯 Meu foco atual está nos estudos de HTML, CSS, JavaScript, React, Node.js, SQLite e Git, enquanto busco minha primeira oportunidade profissional na área.<br>- 📚 Graduado em Análise e Desenvolvimento de Sistemas.<br>- 🚀 Aluno da Rocketseat, focado em tecnologias modernas e desenvolvimento full-stack.</p>
+<p align="left">- 🎯 Atualmente, estou focado em aprofundar e expandir minhas habilidades em tecnologias como HTML, CSS, JavaScript, React, Node.js, SQLite e Git, buscando constantemente melhorar minha eficiência no desenvolvimento full stack.<br>- 📚 Graduado em Análise e Desenvolvimento de Sistemas.<br>- 🚀 Aluno da Rocketseat, focado em tecnologias modernas e desenvolvimento full-stack.</p>
 
 ###
 
